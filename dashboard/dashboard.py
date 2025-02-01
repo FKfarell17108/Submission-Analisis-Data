@@ -12,11 +12,11 @@ st.set_page_config(page_title="Bike Sharing Dashboard", layout="wide")
 def load_data():
     try:
         # Load daily data
-        day_df = pd.read_csv('../data/day.csv')
+        day_df = pd.read_csv('https://raw.githubusercontent.com/FKfarell17108/submission-analisis-data/refs/heads/main/data/day.csv')
         day_df['dteday'] = pd.to_datetime(day_df['dteday'])
 
         # Load hourly data
-        hour_df = pd.read_csv('../data/hour.csv')
+        hour_df = pd.read_csv('https://raw.githubusercontent.com/FKfarell17108/submission-analisis-data/refs/heads/main/data/hour.csv')
         hour_df['dteday'] = pd.to_datetime(hour_df['dteday'])
 
         # Mapping nilai kategori
