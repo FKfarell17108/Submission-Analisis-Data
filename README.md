@@ -42,8 +42,8 @@ Ikuti langkah-langkah berikut untuk menjalankan dashboard secara lokal:
 1. **Clone Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/bike-sharing-dashboard.git
-   cd bike-sharing-dashboard
+   https://github.com/FKfarell17108/submission-analisis-data.git
+   cd submission-analisis-data
 
 2. **Buat Virtual Environment (Opsional, tapi direkomendasikan):**
 
@@ -99,10 +99,10 @@ Proyek ini bersifat open source dan tersedia di bawah MIT License.
 
 ---
 
-Selamat menggunakan dashboard ini! Jangan ragu untuk menghubungi saya melalui email jika ada pertanyaan atau masukan.
+Selamat menggunakan dashboard ini! Jangan ragu untuk menghubungi saya melalui email (farellkurniawan17108@gmail.com) jika ada pertanyaan atau masukan.
 
 Happy Exploring! 🚲
 
--   ```yaml
 ---
+
    Dokumentasi di atas memberikan instruksi yang jelas dan menarik untuk pengguna, sekaligus menjelaskan struktur proyek dan fitur yang tersedia. Anda dapat menyesuaikan bagian tertentu (misalnya URL repository atau tautan deployment) sesuai kebutuhan Anda.
